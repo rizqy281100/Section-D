@@ -1,6 +1,6 @@
 # AtapTropis — Solusi Atap Modern untuk Rumah Tropis
 
-Landing page responsif dan modern bertema **"Solusi Atap Modern untuk Rumah Tropis"** yang dibangun dengan HTML5 semantik, CSS murni, dan JavaScript sederhana.
+Landing page responsif dan modern bertema **"Solusi Atap Modern untuk Rumah Tropis"** yang dibangun dengan HTML, CSS, dan JavaScript.
 
 ---
 
@@ -31,7 +31,7 @@ solusi-atap-tropis/
 
 ---
 
-## ✨ Komponen Halaman
+## ✨ Sections
 
 1. **Navbar**: Logo AtapTropis, menu navigasi, tombol CTA, dan tombol menu untuk tampilan mobile.
 2. **Hero Section**: Judul utama, deskripsi masalah rumah tropis, tombol aksi, dan foto asli arsitektur rumah modern.
